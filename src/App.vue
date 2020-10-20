@@ -17,7 +17,7 @@ export default {
 @import url("https://fonts.googleapis.com/css?family=Bangers|Permanent+Marker|Graduate:400,700");
 
 
-// main css
+// main css - Harvin
 body {
   background-color: #0071c5;
   line-height: 1;
